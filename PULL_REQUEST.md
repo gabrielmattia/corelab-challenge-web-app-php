@@ -10,3 +10,6 @@ Web: [gabrielmattia/corelab-challenge-web-app-php (github.com)](https://github.c
 API: [gabrielmattia/corelab-api-challenge-php (github.com)](https://github.com/gabrielmattia/corelab-api-challenge-php)
 
 Os itens priorizados são essenciais para a gestão de notas e funcionalidade do aplicativo. Em relação ao front, o desing se mantem na idealização clean para priorizar a alteração de cores entre as notas sem grandes contrastes.
+
+Nome: Wellington Gabriel de Mattia
+email: wgmattia@gmail.com
